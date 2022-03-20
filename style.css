@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(172, 16, 16);
+    height: 100px;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner{
+    background-color: rgb(122, 18, 18);
+    height: 500px;
+    color: aliceblue;
+    margin-top: 25px;
+    text-align: center;
+}
+.our_service{
+    text-align: center;
+    margin: 50px 0px;
+    color: rgb(248, 135, 7);
+}
+section{
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+}
+.service{
+    display: flex;
+}
+.ser1{
+height: 300px;
+width: 30%;
+background-color: rgb(240, 39, 39);
+}
+.ser2{
+    height: 300px;
+    width: 30%;
+    background-color: rgb(240, 39, 39);
+    margin-left: 5%;
+}
+.ser3{
+    height: 300px;
+    width: 30%;
+    background-color: rgb(240, 39, 39);
+    margin-left: 5%;
+}
+.service2{
+    display: flex;
+    margin-top: 30px;
+}
+.ser4{
+    height: 300px;
+    width: 30%;
+    background-color: rgb(240, 39, 39);
+}
+.ser5{
+    height: 300px;
+    width: 30%;
+    background-color: rgb(240, 39, 39);
+    margin-left: 5%;
+}
+.ser6{
+    height: 300px;
+    width: 30%;
+    background-color: rgb(240, 39, 39);
+    margin-left: 5%;
+}
+footer{
+    height: 100px;
+    background-color: rgb(56, 19, 19);
+    margin: 30px 0 0;
+}
